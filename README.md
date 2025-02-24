@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @recyclebin01
 - 👀 I’m interested in gaining knowledge
 - 🌱 I’m currently learning javascript ,html and css
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web devlpoment
 - 📫 How to reach me :here n git
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:THALES THE FIRST PHILOSPHER BELIEVED EVERYTHING WAS MADE OUT OF WATER,HIS FOLLOWERS BELIEVED HIM
